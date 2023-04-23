@@ -1,0 +1,15 @@
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\bin\Debug\net6.0\lesson#1HelloUser.exe
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\bin\Debug\net6.0\lesson#1HelloUser.deps.json
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\bin\Debug\net6.0\lesson#1HelloUser.runtimeconfig.json
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\bin\Debug\net6.0\lesson#1HelloUser.dll
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\bin\Debug\net6.0\lesson#1HelloUser.pdb
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\lesson#1HelloUser.csproj.AssemblyReference.cache
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\lesson#1HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\lesson#1HelloUser.AssemblyInfoInputs.cache
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\lesson#1HelloUser.AssemblyInfo.cs
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\lesson#1HelloUser.csproj.CoreCompileInputs.cache
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\lesson#1HelloUser.dll
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\refint\lesson#1HelloUser.dll
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\lesson#1HelloUser.pdb
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\lesson#1HelloUser.genruntimeconfig.cache
+D:\GB education\С#\Lesson #1\lesson#1HelloUser\obj\Debug\net6.0\ref\lesson#1HelloUser.dll
